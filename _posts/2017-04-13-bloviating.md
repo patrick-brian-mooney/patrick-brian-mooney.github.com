@@ -3,7 +3,7 @@ layout: post
 title: "Bloviating"
 description: "Quick note on a paragraph in Douchebag Brainwaves"
 category: [ Markov, Tumblr, Douchebag Brainwaves ]
-tags: [Tumblr, Markov chains, "Paul Graham"]
+tags: [Tumblr, Markov chains, "Paul Graham", Douchebag Brainwaves]
 date:   2017-04-13 16:13:00 -0700
 ---
 {% include JB/setup %}
