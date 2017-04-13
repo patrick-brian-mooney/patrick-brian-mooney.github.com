@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "But the chains don't understand content. :("
-description: ""
+description: "Quick note on a @false_trump tweet"
 category: [ Markov, Twitter, false_trump ]
 tags: [Twitter, Markov chains, "Donald Trump"]
+date:   2017-04-13 13:00:00 -0700
 ---
 {% include JB/setup %}
 

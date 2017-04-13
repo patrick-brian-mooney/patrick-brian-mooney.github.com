@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: reading-automated-writing
+tagline: Writing about reading the writing written by automated computer scripts that I wrote.
 ---
 {% include JB/setup %}
 
-Writing about reading the writing written by automated computer scripts that I wrote.
+Elsewhere, my scripts produce automated writing. Here, I write about reading it.
 
 <ul class="posts">
   {% for post in site.posts %}
