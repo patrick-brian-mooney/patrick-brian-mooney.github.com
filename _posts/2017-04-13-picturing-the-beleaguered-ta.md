@@ -2,8 +2,8 @@
 layout: post
 title: "Picturing the beleaguered TA"
 description: ""
-category: 
-tags: []
+category: [ Markov, Twitter, IrishLitTweets ]
+tags: [Irish literature, Twitter, pedagogy, ]
 ---
 {% include JB/setup %}
 

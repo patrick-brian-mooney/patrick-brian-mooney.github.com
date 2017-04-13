@@ -2,7 +2,7 @@
 layout: post
 title: "But the chains don't understand content. :("
 description: ""
-category: Markov/Twitter/false_trump
+category: [ Markov, Twitter, false_trump ]
 tags: [Twitter, Markov chains, "Donald Trump"]
 ---
 {% include JB/setup %}
