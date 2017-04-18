@@ -3,7 +3,7 @@ layout: post
 title: "Picturing the beleaguered TA"
 description: "Quick reading of an @IrishLitTweets tweet"
 category: [ Markov, Twitter, IrishLitTweets ]
-tags: [Irish literature, Twitter, pedagogy, IrishLitTweets]
+tags: [Irish literature, Twitter, Markov chains, pedagogy, IrishLitTweets]
 date:   2017-04-13 13:22:00 -0700
 ---
 {% include JB/setup %}
